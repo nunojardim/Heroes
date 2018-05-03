@@ -1,2 +1,2 @@
 # Heroes
-treinamento Angular
+Treinamento Angular
